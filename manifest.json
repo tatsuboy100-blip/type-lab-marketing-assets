@@ -1,0 +1,69 @@
+{
+  "account": "typelabo1024",
+  "account_id": "17841438674743155",
+  "schedule": "3x/day around 09:00, 15:00, 21:00 JST",
+  "queue": [
+    {
+      "id": "banner-03-cast-diagnosis",
+      "image": "banner-03-cast-diagnosis.jpg",
+      "caption": "指名の多い子と少ない子、実は「愛想」の差じゃないことが多いです。\n自分がどのタイプかで、伸びる接客のやり方が全然違います。\n1分でわかるキャスト診断はじめました。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャバ嬢 #キャスト診断",
+      "posted": true,
+      "posted_at": "2026-08-14",
+      "media_id": "17870234604583050"
+    },
+    {
+      "id": "banner-01-free-article",
+      "image": "banner-01-free-article.jpg",
+      "caption": "「感じはいいのに指名が伸びない」その理由、言語化できていますか。\nNIGHT PRODUCEの無料キャスト診断、はじめました。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャバ嬢 #キャスト診断",
+      "posted": false
+    },
+    {
+      "id": "banner-02-paid-note",
+      "image": "banner-02-paid-note.jpg",
+      "caption": "診断結果だけでも参考になりますが、さらに詳しい伸ばし方はプロフィールの有料noteでも公開しています。\nまずは無料診断からどうぞ。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャバ嬢 #キャスト診断",
+      "posted": false
+    },
+    {
+      "id": "banner-04-diagnosis-report",
+      "image": "banner-04-diagnosis-report.jpg",
+      "caption": "これまで診断を受けた子たちを見ていると、タイプは本当にバラバラです。\nだからこそ、一人ひとりに合った伸ばし方が必要になります。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャバ嬢 #キャスト診断",
+      "posted": false
+    },
+    {
+      "id": "banner-05-tool-intro",
+      "image": "banner-05-tool-intro.jpg",
+      "caption": "NIGHT PRODUCEは、キャストの接客タイプを分析して育成方針まで落とし込むサービスです。\nまずは自分のタイプから知ってみませんか。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャスト育成 #キャスト診断",
+      "posted": false
+    },
+    {
+      "id": "banner-06-training",
+      "image": "banner-06-training.jpg",
+      "caption": "新人指導、みんな同じやり方で教えていませんか。\nタイプが違えば、伸びる教え方も変わります。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #新人教育 #キャスト診断",
+      "posted": false
+    },
+    {
+      "id": "banner-07-line-ops",
+      "image": "banner-07-line-ops.jpg",
+      "caption": "LINEの返信、頑張って長文を書くより、タイプに合った頻度と内容の方が効くことがあります。\n自分のタイプ、診断してみませんか。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャバ嬢 #キャスト診断",
+      "posted": false
+    },
+    {
+      "id": "banner-08-language",
+      "image": "banner-08-language.jpg",
+      "caption": "「感じがいい」の先にある、「また会いたい」を作る接客。\n言葉にできると、再現できるようになります。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャバ嬢 #キャスト診断",
+      "posted": false
+    },
+    {
+      "id": "banner-24-1024type",
+      "image": "banner-24-1024type.jpg",
+      "caption": "NIGHT PRODUCEの診断は、10軸の組み合わせで1024通りのタイプに分かれます。\n自分だけのタイプ、見てみませんか。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャバ嬢 #キャスト診断",
+      "posted": false
+    },
+    {
+      "id": "banner-common",
+      "image": "banner-common.jpg",
+      "caption": "指名の多い子と少ない子の差は、頑張りじゃなくタイプに合った接客をしているかどうかだったりします。\n1分でわかる診断、はじめました。\nhttps://type-lab.jp/night-produce/diagnosis-test/\n#夜職 #キャバ嬢 #キャスト診断",
+      "posted": false
+    }
+  ]
+}
