@@ -2,8 +2,36 @@
   "account": "typelabo1024",
   "account_id": "17841438674743155",
   "schedule": "3x/day, alternating odd/even days: odd days 09:00/15:00/21:00 JST, even days 10:00/16:00/22:00 JST",
-  "style_note": "Pink, unified, 20s-women-friendly design. Avoid nightlife-industry-specific keywords (e.g. hostess-club terms) in captions to reduce restriction risk. No URL in caption text; every caption instead nudges the reader toward the Instagram bio link with varied phrasing. Each caption must have a distinct hook/structure -- no repeated closing template.",
+  "style_note": "Pink, unified, 20s-women-friendly design. Avoid nightlife-industry-specific keywords (e.g. hostess-club terms) in captions to reduce restriction risk. No URL in caption text; every caption instead nudges the reader toward the Instagram bio link with varied phrasing. Each caption must have a distinct hook/structure -- no repeated closing template. Never use the number '1024' in captions or on-image text. As of 2026-08-14, new content should default to 7-image carousels (entries with a `type: \"carousel\"` and `images` array) rather than single images; older single-image entries remain in the queue and are still valid.",
   "queue": [
+    {
+      "id": "carousel-01-setsukyaku-guide",
+      "type": "carousel",
+      "images": ["pink-td-01.jpg", "pink-td-02.jpg", "pink-td-03.jpg", "pink-td-04.jpg", "pink-td-05.jpg", "pink-td-06.jpg", "pink-td-07.jpg"],
+      "caption": "その診断、1回やって終わりにしてない?\n\n接客タイプ診断は、質問に答える→タイプが分かる→今日やることが届く、の3ステップで使うもの。\n\n保存しておいて、次に接客に迷ったときに見返してもらえたら。診断はプロフィールのリンクから。\n#タイプ診断 #接客タイプ #自己分析 #MBTI #性格診断 #心理テスト",
+      "posted": false
+    },
+    {
+      "id": "carousel-02-newhire",
+      "type": "carousel",
+      "images": ["newhire-01.jpg", "newhire-02.jpg", "newhire-03.jpg", "newhire-04.jpg", "newhire-05.jpg", "newhire-06.jpg", "newhire-07.jpg"],
+      "caption": "新人指導、みんな同じやり方で教えていませんか。\n\n褒めて伸びるタイプもいれば、任せて伸びるタイプもいます。教え方が合っているかどうかで、定着率はけっこう変わります。\n\n自分と後輩、両方のタイプを知っておくと役に立つはず。診断はプロフィールのリンクから。\n#タイプ診断 #MBTI #性格診断 #自己分析 #人材育成",
+      "posted": false
+    },
+    {
+      "id": "carousel-03-homekata",
+      "type": "carousel",
+      "images": ["homekata-01.jpg", "homekata-02.jpg", "homekata-03.jpg", "homekata-04.jpg", "homekata-05.jpg", "homekata-06.jpg", "homekata-07.jpg"],
+      "caption": "褒め方、実は結構間違えやすいです。\n\n結果を褒められたい人と、過程を褒められたい人。同じ「よくやった」でも、響き方は全然違います。\n\n自分がどっちのタイプか、プロフィールのリンクから1分で分かります。\n#タイプ診断 #MBTI #性格診断 #自己分析 #心理テスト",
+      "posted": false
+    },
+    {
+      "id": "carousel-04-tsuzukerareru",
+      "type": "carousel",
+      "images": ["tsuzuku-01.jpg", "tsuzuku-02.jpg", "tsuzuku-03.jpg", "tsuzuku-04.jpg", "tsuzuku-05.jpg", "tsuzuku-06.jpg", "tsuzuku-07.jpg"],
+      "caption": "続けられる人と続かない人。分かれ道は、実はやる気じゃないかもしれません。\n\n自分に合わないペースで頑張ってると、どこかで息切れします。一気に飛ばすタイプか、コツコツ積むタイプか。\n\nまずは自分のペースを知ることから。診断はプロフィールのリンクへ。\n#タイプ診断 #MBTI #性格診断 #自己分析 #診断コンテンツ",
+      "posted": false
+    },
     {
       "id": "banner-03-cast-diagnosis",
       "image": "banner-03-cast-diagnosis.jpg",
