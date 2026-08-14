@@ -9,7 +9,11 @@
       "type": "carousel",
       "images": ["pink-td-01.jpg", "pink-td-02.jpg", "pink-td-03.jpg", "pink-td-04.jpg", "pink-td-05.jpg", "pink-td-06.jpg", "pink-td-07.jpg"],
       "caption": "その診断、1回やって終わりにしてない?\n\n接客タイプ診断は、質問に答える→タイプが分かる→今日やることが届く、の3ステップで使うもの。\n\n保存しておいて、次に接客に迷ったときに見返してもらえたら。診断はプロフィールのリンクから。\n#タイプ診断 #接客タイプ #自己分析 #MBTI #性格診断 #心理テスト",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-14",
+      "media_id": "18125552806781176",
+      "story_media_ids": ["18094523777561419", "18123874075790868", "18453756037137296", "17871990603632585", "17888341929608736", "18095726054627819"],
+      "note": "story #4 (pink-td-04) failed transiently (\"resource does not exist\"); other 6 stories + the feed post succeeded. Repo write failed at post time (GitHub App lacked contents:write) and was fixed manually afterward."
     },
     {
       "id": "carousel-02-newhire",
