@@ -41,7 +41,10 @@
       "type": "carousel",
       "images": ["tsuzuku-01.jpg", "tsuzuku-02.jpg", "tsuzuku-03.jpg", "tsuzuku-04.jpg", "tsuzuku-05.jpg", "tsuzuku-06.jpg", "tsuzuku-07.jpg"],
       "caption": "続けられる人と続かない人。分かれ道は、実はやる気じゃないかもしれません。\n\n自分に合わないペースで頑張ってると、どこかで息切れします。一気に飛ばすタイプか、コツコツ積むタイプか。\n\nまずは自分のペースを知ることから。診断はプロフィールのリンクへ。\n#タイプ診断 #MBTI #性格診断 #自己分析 #診断コンテンツ",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-15",
+      "media_id": "18277041061288920",
+      "note": "Detected via scheduled monitoring cron (repo write failed with the usual 403 at post time, fixed after the fact). Story posting outcome not verified this time -- stories expire in 24h and weren't checked."
     },
     {
       "id": "banner-03-cast-diagnosis",
