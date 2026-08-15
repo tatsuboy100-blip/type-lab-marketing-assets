@@ -20,7 +20,11 @@
       "type": "carousel",
       "images": ["newhire-01.jpg", "newhire-02.jpg", "newhire-03.jpg", "newhire-04.jpg", "newhire-05.jpg", "newhire-06.jpg", "newhire-07.jpg"],
       "caption": "新人指導、みんな同じやり方で教えていませんか。\n\n褒めて伸びるタイプもいれば、任せて伸びるタイプもいます。教え方が合っているかどうかで、定着率はけっこう変わります。\n\n自分と後輩、両方のタイプを知っておくと役に立つはず。診断はプロフィールのリンクから。\n#タイプ診断 #MBTI #性格診断 #自己分析 #人材育成",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-15",
+      "media_id": "17910034899452478",
+      "story_media_ids": ["18122265256871949", "18061264388758880", "18123810208761641", "17964057651145878", "17895949518571296", "18386888122160856"],
+      "note": "story #4 (newhire-04) failed transiently (\"resource does not exist\"); other 6 stories + the feed post succeeded. Repo write failed at post time (GitHub App lacked contents:write) and was fixed manually afterward."
     },
     {
       "id": "carousel-03-homekata",
