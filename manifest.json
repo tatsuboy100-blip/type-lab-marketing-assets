@@ -31,7 +31,10 @@
       "type": "carousel",
       "images": ["homekata-01.jpg", "homekata-02.jpg", "homekata-03.jpg", "homekata-04.jpg", "homekata-05.jpg", "homekata-06.jpg", "homekata-07.jpg"],
       "caption": "褒め方、実は結構間違えやすいです。\n\n結果を褒められたい人と、過程を褒められたい人。同じ「よくやった」でも、響き方は全然違います。\n\n自分がどっちのタイプか、プロフィールのリンクから1分で分かります。\n#タイプ診断 #MBTI #性格診断 #自己分析 #心理テスト",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-15",
+      "media_id": "18132141172727873",
+      "note": "Detected via scheduled monitoring cron (repo write failed with the usual 403 at post time, fixed after the fact). Story posting outcome not verified this time -- stories expire in 24h and weren't checked."
     },
     {
       "id": "carousel-04-tsuzukerareru",
