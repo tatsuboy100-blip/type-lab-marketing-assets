@@ -7,29 +7,67 @@
     {
       "id": "carousel-01-setsukyaku-guide",
       "type": "carousel",
-      "images": ["pink-td-01.jpg", "pink-td-02.jpg", "pink-td-03.jpg", "pink-td-04.jpg", "pink-td-05.jpg", "pink-td-06.jpg", "pink-td-07.jpg"],
+      "images": [
+        "pink-td-01.jpg",
+        "pink-td-02.jpg",
+        "pink-td-03.jpg",
+        "pink-td-04.jpg",
+        "pink-td-05.jpg",
+        "pink-td-06.jpg",
+        "pink-td-07.jpg"
+      ],
       "caption": "その診断、1回やって終わりにしてない?\n\n接客タイプ診断は、質問に答える→タイプが分かる→今日やることが届く、の3ステップで使うもの。\n\n保存しておいて、次に接客に迷ったときに見返してもらえたら。診断はプロフィールのリンクから。\n#タイプ診断 #接客タイプ #自己分析 #MBTI #性格診断 #心理テスト",
       "posted": true,
       "posted_at": "2026-08-14",
       "media_id": "18125552806781176",
-      "story_media_ids": ["18094523777561419", "18123874075790868", "18453756037137296", "17871990603632585", "17888341929608736", "18095726054627819"],
+      "story_media_ids": [
+        "18094523777561419",
+        "18123874075790868",
+        "18453756037137296",
+        "17871990603632585",
+        "17888341929608736",
+        "18095726054627819"
+      ],
       "note": "story #4 (pink-td-04) failed transiently (\"resource does not exist\"); other 6 stories + the feed post succeeded. Repo write failed at post time (GitHub App lacked contents:write) and was fixed manually afterward."
     },
     {
       "id": "carousel-02-newhire",
       "type": "carousel",
-      "images": ["newhire-01.jpg", "newhire-02.jpg", "newhire-03.jpg", "newhire-04.jpg", "newhire-05.jpg", "newhire-06.jpg", "newhire-07.jpg"],
+      "images": [
+        "newhire-01.jpg",
+        "newhire-02.jpg",
+        "newhire-03.jpg",
+        "newhire-04.jpg",
+        "newhire-05.jpg",
+        "newhire-06.jpg",
+        "newhire-07.jpg"
+      ],
       "caption": "新人指導、みんな同じやり方で教えていませんか。\n\n褒めて伸びるタイプもいれば、任せて伸びるタイプもいます。教え方が合っているかどうかで、定着率はけっこう変わります。\n\n自分と後輩、両方のタイプを知っておくと役に立つはず。診断はプロフィールのリンクから。\n#タイプ診断 #MBTI #性格診断 #自己分析 #人材育成",
       "posted": true,
       "posted_at": "2026-08-15",
       "media_id": "17910034899452478",
-      "story_media_ids": ["18122265256871949", "18061264388758880", "18123810208761641", "17964057651145878", "17895949518571296", "18386888122160856"],
+      "story_media_ids": [
+        "18122265256871949",
+        "18061264388758880",
+        "18123810208761641",
+        "17964057651145878",
+        "17895949518571296",
+        "18386888122160856"
+      ],
       "note": "story #4 (newhire-04) failed transiently (\"resource does not exist\"); other 6 stories + the feed post succeeded. Repo write failed at post time (GitHub App lacked contents:write) and was fixed manually afterward."
     },
     {
       "id": "carousel-03-homekata",
       "type": "carousel",
-      "images": ["homekata-01.jpg", "homekata-02.jpg", "homekata-03.jpg", "homekata-04.jpg", "homekata-05.jpg", "homekata-06.jpg", "homekata-07.jpg"],
+      "images": [
+        "homekata-01.jpg",
+        "homekata-02.jpg",
+        "homekata-03.jpg",
+        "homekata-04.jpg",
+        "homekata-05.jpg",
+        "homekata-06.jpg",
+        "homekata-07.jpg"
+      ],
       "caption": "褒め方、実は結構間違えやすいです。\n\n結果を褒められたい人と、過程を褒められたい人。同じ「よくやった」でも、響き方は全然違います。\n\n自分がどっちのタイプか、プロフィールのリンクから1分で分かります。\n#タイプ診断 #MBTI #性格診断 #自己分析 #心理テスト",
       "posted": true,
       "posted_at": "2026-08-15",
@@ -39,7 +77,15 @@
     {
       "id": "carousel-04-tsuzukerareru",
       "type": "carousel",
-      "images": ["tsuzuku-01.jpg", "tsuzuku-02.jpg", "tsuzuku-03.jpg", "tsuzuku-04.jpg", "tsuzuku-05.jpg", "tsuzuku-06.jpg", "tsuzuku-07.jpg"],
+      "images": [
+        "tsuzuku-01.jpg",
+        "tsuzuku-02.jpg",
+        "tsuzuku-03.jpg",
+        "tsuzuku-04.jpg",
+        "tsuzuku-05.jpg",
+        "tsuzuku-06.jpg",
+        "tsuzuku-07.jpg"
+      ],
       "caption": "続けられる人と続かない人。分かれ道は、実はやる気じゃないかもしれません。\n\n自分に合わないペースで頑張ってると、どこかで息切れします。一気に飛ばすタイプか、コツコツ積むタイプか。\n\nまずは自分のペースを知ることから。診断はプロフィールのリンクへ。\n#タイプ診断 #MBTI #性格診断 #自己分析 #診断コンテンツ",
       "posted": true,
       "posted_at": "2026-08-15",
@@ -233,6 +279,81 @@
       "id": "pink-30-ima-sugu-check",
       "image": "pink-30.jpg",
       "caption": "気になったら、今すぐプロフィールをチェックしてみてください。\n1分でわかるタイプ診断、待っています。\n#タイプ診断 #MBTI #性格診断 #自己分析 #心理テスト #診断コンテンツ",
+      "posted": false
+    },
+    {
+      "id": "pink-s5",
+      "type": "carousel",
+      "images": [
+        "pink-s5-01.jpg",
+        "pink-s5-02.jpg",
+        "pink-s5-03.jpg",
+        "pink-s5-04.jpg",
+        "pink-s5-05.jpg",
+        "pink-s5-06.jpg",
+        "pink-s5-07.jpg"
+      ],
+      "caption": "場を盛り上げるのが得意な人も、じっくり話を聞くのが得意な人も、どちらも立派な接客スタイルです。\n\n自分がどっちのタイプか知っておくと、無理に苦手な方を演じなくて済みます。プロフィールのリンクから診断できます。\n#タイプ診断 #MBTI #性格診断 #自己分析 #心理テスト",
+      "posted": false
+    },
+    {
+      "id": "pink-s6",
+      "type": "carousel",
+      "images": [
+        "pink-s6-01.jpg",
+        "pink-s6-02.jpg",
+        "pink-s6-03.jpg",
+        "pink-s6-04.jpg",
+        "pink-s6-05.jpg",
+        "pink-s6-06.jpg",
+        "pink-s6-07.jpg"
+      ],
+      "caption": "同じ言葉のつもりが、違う意味で伝わる。そんなすれ違い、実はタイプの違いが原因かもしれません。\n\n結論から話すタイプか、背景から話すタイプか。自分と相手のタイプ、プロフィールのリンクから調べてみませんか。\n#タイプ診断 #MBTI #性格診断 #自己分析",
+      "posted": false
+    },
+    {
+      "id": "pink-s7",
+      "type": "carousel",
+      "images": [
+        "pink-s7-01.jpg",
+        "pink-s7-02.jpg",
+        "pink-s7-03.jpg",
+        "pink-s7-04.jpg",
+        "pink-s7-05.jpg",
+        "pink-s7-06.jpg",
+        "pink-s7-07.jpg"
+      ],
+      "caption": "頑張れる時間帯、実は人によって違います。\n\n午前中に集中できるタイプか、午後から調子が上がるタイプか。自分のリズムを知っておくと、無理な頑張り方をしなくて済みます。プロフィールのリンクからチェックできます。\n#タイプ診断 #MBTI #性格診断 #自己分析 #心理テスト",
+      "posted": false
+    },
+    {
+      "id": "pink-s8",
+      "type": "carousel",
+      "images": [
+        "pink-s8-01.jpg",
+        "pink-s8-02.jpg",
+        "pink-s8-03.jpg",
+        "pink-s8-04.jpg",
+        "pink-s8-05.jpg",
+        "pink-s8-06.jpg",
+        "pink-s8-07.jpg"
+      ],
+      "caption": "メッセージの返信、頑張って長文を書くタイプもいれば、テンポよく短く返すタイプもいます。\n\nどちらが正解ということはなく、自分に合う型を知っておくだけで気が楽になります。プロフィールのリンクからどうぞ。\n#タイプ診断 #MBTI #性格診断 #自己分析",
+      "posted": false
+    },
+    {
+      "id": "pink-s9",
+      "type": "carousel",
+      "images": [
+        "pink-s9-01.jpg",
+        "pink-s9-02.jpg",
+        "pink-s9-03.jpg",
+        "pink-s9-04.jpg",
+        "pink-s9-05.jpg",
+        "pink-s9-06.jpg",
+        "pink-s9-07.jpg"
+      ],
+      "caption": "タイプ診断、1回やって終わりにしていませんか。\n\n保存しておいて、接客に迷った時に見返す。周りの人のタイプも知っておく。使い方を知ると、もっと役に立ちます。プロフィールのリンクから今すぐどうぞ。\n#タイプ診断 #MBTI #性格診断 #自己分析 #診断コンテンツ",
       "posted": false
     }
   ]
