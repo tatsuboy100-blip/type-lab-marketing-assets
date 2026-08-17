@@ -105,7 +105,10 @@
       "id": "pink-01-kotoba-ni-shita-koto-aru",
       "image": "pink-01.jpg",
       "caption": "自分の接客スタイル、言葉にしたことありますか。\n豊富な組み合わせで分かるタイプ診断、プロフィールのリンクから受けられます。\n#タイプ診断 #MBTI #性格診断 #自己分析 #心理テスト",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-17",
+      "media_id": "18104966438233441",
+      "note": "Detected via scheduled monitoring cron (repo write failed with the usual 403 at post time, fixed after the fact)."
     },
     {
       "id": "pink-02-nobashikata",
