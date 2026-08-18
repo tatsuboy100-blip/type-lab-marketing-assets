@@ -125,9 +125,8 @@
       "caption": "聞き上手なタイプ、場を盛り上げるタイプ。輝き方はタイプごとに全然違います。\nあなたはどっち？プロフィールのリンクで診断できます。\n#タイプ診断 #MBTI #性格診断 #自己分析 #心理テスト",
       "posted": true,
       "posted_at": "2026-08-18",
-      "media_id": "18414140242159740",
-      "duplicate_media_ids": ["18157230343495282", "18454187641143260"],
-      "note": "Posted THREE times: once at the 15:00 JST slot (media_id above, 16:10 JST) and twice more at the 21:00 JST slot 18 seconds apart (duplicate_media_ids, 22:23 JST -- classic environment-restart double-post, this time tripled). Detected via monitoring cron. The two duplicates are still live on Instagram and need manual deletion by the user; media_id reflects the earliest/kept post."
+      "media_id": "18454187641143260",
+      "note": "Posted THREE times (15:00 JST slot once, 21:00 JST slot twice 18s apart -- environment-restart double-post, tripled). User deleted two of the three on 2026-08-18; the survivor was 18454187641143260 (not the one originally intended to keep), confirmed via Windsor.ai get_data. No practical impact -- one post remains either way."
     },
     {
       "id": "pink-04-suno-mama",
