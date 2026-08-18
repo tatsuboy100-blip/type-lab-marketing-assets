@@ -114,7 +114,10 @@
       "id": "pink-02-nobashikata",
       "image": "pink-02.jpg",
       "caption": "「もっと頑張れ」と言われても、何を頑張ればいいか分からない。\nそんな時は、まず自分のタイプを知るのが近道です。気になる人はプロフィールへ。\n#タイプ診断 #MBTI #性格診断 #自己分析",
-      "posted": false
+      "posted": true,
+      "posted_at": "2026-08-18",
+      "media_id": "18106034339141395",
+      "note": "Detected via scheduled monitoring cron (repo write failed with the usual 403 at post time, fixed after the fact)."
     },
     {
       "id": "pink-03-kikijozu-moriagejozu",
